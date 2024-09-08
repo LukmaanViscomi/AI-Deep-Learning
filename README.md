@@ -1,6 +1,6 @@
 # AI-Deep-Learning
 MSC AI Archive
 
-This is a first draft for the project.
+This is a collaborative space. Please create a branch for major changes and discuss before commiting back to the main branch.
 
-Members and their contribution is yet to be fedined
+
